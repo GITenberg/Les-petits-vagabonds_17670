@@ -1,0 +1,36 @@
+_repo: Les-petits-vagabonds_17670
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bayard, Émile Antoine
+    alias: Bayard, Emile Antoine
+    birthdate: 1837
+    deathdate: 1891
+    gutenberg_agent_id: '7533'
+    url: http://www.gutenberg.org/2009/agents/7533
+    wikipedia: http://en.wikipedia.org/wiki/%C3%89mile_Bayard
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marcel, Jeanne
+    gutenberg_agent_id: '7532'
+    url: http://www.gutenberg.org/2009/agents/7532
+description: ''
+gutenberg_bookshelf:
+- FR Jeunesse
+- FR Illustrateurs
+gutenberg_issued: '2006-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17670'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Orphans -- Juvenile fiction'
+title: Les petits vagabonds
+url: http://www.gutenberg.org/ebooks/17670
