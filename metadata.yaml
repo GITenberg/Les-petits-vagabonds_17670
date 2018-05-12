@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '7532'
     url: http://www.gutenberg.org/2009/agents/7532
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17670#Les-petits-vagabonds
 gutenberg_bookshelf:
 - FR Jeunesse
 - FR Illustrateurs
